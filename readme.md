@@ -1,3 +1,5 @@
+# This repo is archived as-of 5/28/2020
+
 # Stripe Local
 
 [![Build Status](https://travis-ci.org/jsonmaur/stripe-local.svg?branch=master)](https://travis-ci.org/jsonmaur/stripe-local)
